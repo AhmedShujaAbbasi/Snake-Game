@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    color: green;
+}
+
+
+img{
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    right: 34%;
+    top: 50%;
+    bottom: 28%;
+    left: 68%;
+    filter: brightness(565px);
+    filter: contrast(91%);
+    height: 210px;
+    width: 202px;
+}    
+
+
+#gameCanvas {
+    display: block;
+    margin: 0 auto;
+    border: 8px solid green;
+    border-radius: 6px;
+    width: 507px;
+    height: 364px;
+    padding: 18px;
+    background-color: rgba(136, 249, 111, 0.782);
+  }
+
+  food{
+    border: 1px solid red;
+  }
